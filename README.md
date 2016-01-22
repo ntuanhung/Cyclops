@@ -8,11 +8,11 @@ Version 1: Overview: this document describes Rule and Plan Who reads this: newbi
 ##Rule: 
 
 #Meeting 
-#Weekly: What kind of thing to discuss ? Tasks, delegation, issues ? How long should spent on discussing ? 30’ ? ii. 
-#Monthly: What kind of thing to discuss ? How long should spent on discuss ? iii. 
-#Urgent: In what extent, should we have an immediately meeting ? 
+-Weekly: What kind of thing to discuss ? Tasks, delegation, issues ? How long should spent on discussing ? 30’ ? ii. 
+-Monthly: What kind of thing to discuss ? How long should spent on discuss ? iii. 
+-	Urgent: In what extent, should we have an immediately meeting ? 
 
-##b. Communication: 
+##Communication: 
 
 #i. Meeting: via skype: 
 
